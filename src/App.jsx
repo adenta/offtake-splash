@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <div>
           <img id="logo" src={logo} />
+          <p style={{fontSize:'20px', lineHeight:'2'}}>A Row Z Ventures Company</p>
          <p style={{fontSize:'20px', lineHeight:'2'}}>Coming Soon</p>
       </div>
     </div>
